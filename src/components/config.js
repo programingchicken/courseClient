@@ -1,7 +1,7 @@
 
 //api
 const config = {
-  apiBaseUrl: 'http://localhost:8047/api',
+  apiBaseUrl: 'https://courseserver-tic7.onrender.com/',
 };
 
 export default config
